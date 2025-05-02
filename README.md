@@ -1,5 +1,5 @@
 # Ogrenci-Otomasyonu
-Mühendislik Projesi Büt Ödevi
+Mühendislik Projesi  Ödevi
 
 Bu proje C++ diliyle oluşturulmuş basit bir konsol uygulamasıdır.
 
